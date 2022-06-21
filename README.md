@@ -8,6 +8,7 @@ LoHo is a decentralized marketplace for NFTs. It is built using Ethereum smart c
 - Polygon Network
 - Rinkeby Network
 - React
+- Infura API
 
 # Screenshots
 - Uploading the NFT with its Name, Description and chosing the file
