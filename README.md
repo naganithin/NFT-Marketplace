@@ -27,6 +27,7 @@ LoHo is a decentralized marketplace for NFTs. It is built using Ethereum smart c
 
 - After Buying the NFT, User 2 can place offer in Marketplace
 
-![Screenshot from 2022-06-21 15-26-01](https://user-images.githubusercontent.com/56812010/174772850-34137d28-3866-4d74-a1a3-538c7c7d2415.png)
+![Screenshot from 2022-06-21 15-26-01](https://user-images.githubusercontent.com/56812010/174773080-94d7343b-d8cf-4bdb-b610-a988e12cb438.png)
+
 
 
